@@ -6,11 +6,6 @@ This project focuses on clean UI design, responsiveness, and proper layout handl
 
 ---
 
-## 🚀 Live Preview
-(Add your live link here if deployed)
-
----
-
 ## 📌 Features
 
 - Responsive layout for desktop and mobile
